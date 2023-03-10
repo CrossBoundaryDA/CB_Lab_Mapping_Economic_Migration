@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+user_config.yml
+odyssey_secrets.yml
+lab_data_dict.yml

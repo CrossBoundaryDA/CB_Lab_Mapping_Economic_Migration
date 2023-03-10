@@ -1,0 +1,17 @@
+name: CB_Lab_Mapping_Economic_Migration-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - numpy
+  - pandas
+  - plotly
+  - pyyaml
+  - notebook 
+  - pyodbc 
+  - elasticsearch
+  - openpyxl
+  - fastparquet
+  - pytz
+  
